@@ -117,6 +117,7 @@ README.md               # project guide
 
 - GitHub: https://github.com/azmedia2006
 - Repository: https://github.com/azmedia2006/Netflix-NFToken-Generator
+- Website 1: https://azmedia247.com
 - Website: https://harshitkamboj.in
 - Discord server: https://discord.gg/DYJFE9nu5X
 
