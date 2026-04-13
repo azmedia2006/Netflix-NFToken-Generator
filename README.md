@@ -9,6 +9,8 @@ It also includes comments in the code so the request flow is easier to understan
 ## Discord
 
 - Discord server: https://discord.gg/DYJFE9nu5X
+- Telegram 1 : https://t.me/azmedia2006
+- Cộng Đồng Tricker : t.me/trickermmo 
 
 ## Features
 
@@ -113,10 +115,9 @@ README.md               # project guide
 
 ## Contact
 
-- GitHub: https://github.com/harshitkamboj
-- Repository: https://github.com/harshitkamboj/Netflix-NFToken-Generator
+- GitHub: https://github.com/azmedia2006
+- Repository: https://github.com/azmedia2006/Netflix-NFToken-Generator
 - Website: https://harshitkamboj.in
-- Discord username: `illuminatis69`
 - Discord server: https://discord.gg/DYJFE9nu5X
 
 ## Disclaimer
