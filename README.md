@@ -10,7 +10,7 @@ It also includes comments in the code so the request flow is easier to understan
 
 - Discord server: https://discord.gg/DYJFE9nu5X
 - Telegram 1 : https://t.me/azmedia2006
-- Cộng Đồng Tricker : t.me/trickermmo 
+- Cộng Đồng Tricker : https://t.me/trickermmo 
 
 ## Features
 
